@@ -1,0 +1,22 @@
+{
+  "name": "InterviewTest",
+  "version": "1.0.0",
+  "description": "InterviewTest",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ekant Chawla",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "connect-busboy": "0.0.2",
+    "express": "^4.16.3",
+    "helmet": "^3.13.0",
+    "jsonwebtoken": "^8.3.0",
+    "mongoose": "^5.2.5",
+    "pino": "^4.17.5",
+    "short-id": "0.1.0-1"
+  }
+}
